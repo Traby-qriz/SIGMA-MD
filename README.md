@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@Traby_casper?sub_confirmation=1">
-    <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/Pic-06-20-2"> 
     </p>
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+CASPER-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+TRABY+QRIZ;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://github.com/Maher-Zubair">
-    <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
+    <img src="https://img.shields.io/github/followers/TRABY-QRIZ?style=flat-square&logo=github&color=black">
 
    <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
+    <img src="https://img.shields.io/github/forks/Traby-Qriz/SIGMA-MD?style=flat-square&logo=github&color=black">
     
     
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
@@ -29,21 +29,21 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/OWNER-Maher_Zubair-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
+<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/OWNER-TRABY_QRIZ-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
 
 <p align="center"> 
-    <a aria-label="Subscribe Me" href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1" target="_blank">
+    <a aria-label="Subscribe Me" href="https://www.youtube.com/@Traby_casper?sub_confirmation=1" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Subscribe My Yt-red?style=for-the-badge&logo=youtube&logoColor=white" />
-    <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m" target="_blank">
+    <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029VacVIGP9hXF6X0OjH71s" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    
 <p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
 
 ##
-***Why Choose SIGMA-MD, Must Check Bot Features And ChangeLog***
+***Why Choose 𝘊𝘈𝘚𝘗𝘌𝘙-MD, Must Check Bot Features And ChangeLog***
  <details close>
 <summary>𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎</summary>
    
@@ -64,14 +64,14 @@
 <summary>𝘾𝙃𝘼𝙉𝙂𝙀 𝙇𝙊𝙂</summary>
 
 - *Fixed Download and AI*
-- ***SIGMA-MD v1.5.3 Releases, 6 March,2024***
+- ***𝘊𝘈𝘚𝘗𝘌𝘙-MD v1.5.3 Releases, 6 March,2024***
 - *Fixed `All Ai` Commands*
 - *Fixed `Spotify` Command*
 - *Fixed `All Anime` Commands*
 - *Fixed `Insta,Fb,Tiktok` Commands*
 - *Fixed All Not Working Commands, Due To Api*
 - *Added My Own Api In Bot https://api.maher-zubair.tech*
-- ***SIGMA-MD v1.4.9 Releases, 16 Feb,2024***
+- ***𝘊𝘈𝘚𝘗𝘌𝘙-MD v1.4.9 Releases, 16 Feb,2024***
 - *Added `Pair Code` For Session ID*
 - *Added New `Session ID` For Bot*
 - *Added New `Qr`*
@@ -160,8 +160,8 @@
 ##
 
 
-- ***Star ⭐ My Repo If You Like SIGMA-MD.***
-- ***The [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
+- ***Star ⭐ My Repo If You Like 𝘊𝘈𝘚𝘗𝘌𝘙-MD.***
+- ***The [𝘊𝘈𝘚𝘗𝘌𝘙-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
 - ***[Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
