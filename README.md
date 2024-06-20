@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@Traby_casper?sub_confirmation=1">
-    <img alt=Support height="350" src="https://telegra.ph/Pic-06-20-2"> 
+    <img alt=Support height="350" src="https://telegra.ph/Pic-06-20-2.jpg"> 
     </p>
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+CASPER-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+TRABY+QRIZ;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
@@ -29,7 +29,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/OWNER-TRABY_QRIZ-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
+<a href="https://github.com/Traby-qriz"><img title="Owner" src="https://img.shields.io/badge/OWNER-TRABY_QRIZ-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
@@ -176,4 +176,4 @@
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***Regards [𝗧𝗥𝗔𝗕𝗬_𝗤𝗥𝗜𝗭](https://github.com/Traby-qriz)***
